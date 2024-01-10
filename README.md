@@ -3,7 +3,7 @@
 ## So far, here are some of the courses I have finished and some that I am still taking:
 
 **TensorFlow Developer Certificate in 2023: Zero to Mastery** 
-**-Udemy**
+-Udemy
 * TensorFlow Fundamentals
 * Neural Network Regression with TensorFlow
 * Neural Network Classification with TensorFlow
@@ -12,8 +12,8 @@
 * NLP Fundamentals in TensorFlow
 * Time Series fundamentals in TensorFlow
 
-**Advanced Computer Vision with TensorFlow
-**-DeepLearning.AI through Coursera**
+**Advanced Computer Vision with TensorFlow**
+-DeepLearning.AI through Coursera
 * Transfer Learning
 * Object Localization
 * Object Detection APIs
@@ -21,7 +21,7 @@
 * Interpretation, Saliency maps, and Class Activation maps
 
 **Introduction to Computer Vision and Image Processing**
-**-IBM through Coursera**
+-IBM through Coursera
 * Image Processing with Pillow
 * Image Processing with OpenCV
 * Image Manipulation
@@ -30,7 +30,7 @@
 * Object Detection
 
 **Supervised Machine Learning: Regression and Classification**
-**-Stanford Online Through Coursera**
+-Stanford Online Through Coursera
 * Supervised Learning
 * Linear Regression
 * Logistic Regression
