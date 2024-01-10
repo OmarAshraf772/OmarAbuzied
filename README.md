@@ -1,11 +1,9 @@
-## My name is Omar I am a fresh graduate with a bachelor's degree in mechatronics engineering
-
-## This is where I store and showcase my work in various projects and courses, building my portfolio in machine learning/deep learning applications specifically.
+## My name is Omar I am a fresh graduate with a bachelor's degree in mechatronics engineering. This is where I store and showcase my work in various projects and courses, building my portfolio in machine learning/deep learning applications specifically.
 
 ## So far, here are some of the courses I have finished and some that I am still taking:
 
-***TensorFlow Developer Certificate in 2023: Zero to Mastery 
-Udemy**
+**TensorFlow Developer Certificate in 2023: Zero to Mastery** 
+**-Udemy**
 * TensorFlow Fundamentals
 * Neural Network Regression with TensorFlow
 * Neural Network Classification with TensorFlow
@@ -15,15 +13,15 @@ Udemy**
 * Time Series fundamentals in TensorFlow
 
 **Advanced Computer Vision with TensorFlow
-DeepLearning.AI through Coursera**
+**-DeepLearning.AI through Coursera**
 * Transfer Learning
 * Object Localization
 * Object Detection APIs
 * Image Segmentation
 * Interpretation, Saliency maps, and Class Activation maps
 
-**Introduction to Computer Vision and Image Processing
-IBM through Coursera**
+**Introduction to Computer Vision and Image Processing**
+**-IBM through Coursera**
 * Image Processing with Pillow
 * Image Processing with OpenCV
 * Image Manipulation
@@ -31,8 +29,8 @@ IBM through Coursera**
 * Convolutional Neural Networks
 * Object Detection
 
-**Supervised Machine Learning: Regression and Classification
-Stanford Online Through Coursera**
+**Supervised Machine Learning: Regression and Classification**
+**-Stanford Online Through Coursera**
 * Supervised Learning
 * Linear Regression
 * Logistic Regression
