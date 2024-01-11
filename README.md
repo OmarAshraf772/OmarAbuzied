@@ -2,6 +2,20 @@
 
 ## So far, here are some of the courses I have finished and some that I am still taking:
 
+**PyTorch for Deep Learning Bootcamp**
+-Udemy
+* PyTorch Fundamentals
+* PyTorch Workflow and Regression
+* PyTorch Neural Network Classification
+* PyTorch Computer Vision
+* PyTorch Custom Datasets
+* PyTorch Going Modular
+* PyTorch Transfer Learning
+* PyTorch Experiment Tracking
+* PyTorch Paper Replicating
+* PyTorch Model Deployment
+
+
 **TensorFlow Developer Certificate in 2023: Zero to Mastery** 
 -Udemy
 * TensorFlow Fundamentals
