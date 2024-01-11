@@ -46,9 +46,10 @@
 * Replication of a the model which powers the PubMed 200k paper to classify different sequences in PubMed medical abstracts (which can help researchers read through medical abstracts faster
 
 **BitPredict**
-* 
+* building a series of forecasting models in an attempt to predict the price of Bitcoin.
 
 **AI Virtual Voice Assistant using Convolutional Neural Network (CNN)**
+* the proposed project is a keyword-spotting machine learning algorithm instead of a full-scale speech recognition model. Such high-level models use what is known as a Recurrent Neural Network (RNN) which on top of being computationally demanding, is also rather difficult to adapt for the proposed application. The model that will be built and used will convert the raw sound file waveforms into corresponding spectrogram images to extract features. The spectrogram will then be employed as the input to a convolutional Neural Network (CNN). The model will use TensorFlow and the Keras deep-learning API to build and train the model on the selected dataset.
 
 
 
