@@ -65,7 +65,7 @@
 **AI Virtual Voice Assistant using Convolutional Neural Network (CNN)**
 * the proposed project is a keyword-spotting machine learning algorithm instead of a full-scale speech recognition model. Such high-level models use what is known as a Recurrent Neural Network (RNN) which on top of being computationally demanding, is also rather difficult to adapt for the proposed application. The model that was built and used converted the raw sound file waveforms into corresponding spectrogram images to extract features. The spectrogram will then be employed as the input to a convolutional Neural Network (CNN). The model used TensorFlow and the Keras deep-learning API to build and train the model on the selected dataset.
 
-** Covid test cases classification: 
+**Covid test cases classification** 
 * Computer vision application to classify cases of covid based on lung x-ray images. The model used is a replication of the VGG16 model.
 
 
