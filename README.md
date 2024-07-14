@@ -1,4 +1,4 @@
-## My name is Omar I am a fresh graduate with a bachelor's degree in mechatronics engineering. This is where I store and showcase my work in various projects and courses, building my portfolio in machine learning/deep learning applications specifically.
+## My name is Omar I am a recent graduate with a bachelor's degree in mechatronics engineering. This is where I store and showcase my work in various projects and courses, building my portfolio in machine learning/deep learning applications specifically.
 
 ## So far, here are some of the courses I have finished and some that I am still taking:
 
